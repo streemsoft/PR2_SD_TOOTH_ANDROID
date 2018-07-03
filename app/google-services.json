@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "506839004364",
+    "firebase_url": "https://sd-tooth.firebaseio.com",
+    "project_id": "sd-tooth",
+    "storage_bucket": "sd-tooth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506839004364:android:dbfb56828cb99d94",
+        "android_client_info": {
+          "package_name": "com.streem.sdtooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506839004364-r6h9jrqiqvij068cu670bfit3sns264q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streem.sdtooth",
+            "certificate_hash": "16a7636acc12dcf9b0613ecadcb2261d86e25a47"
+          }
+        },
+        {
+          "client_id": "506839004364-v2dhnvse9vsmi4pfmnqurfsogpn3lfij.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "506839004364-v2dhnvse9vsmi4pfmnqurfsogpn3lfij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmpaRnadGO5idYhnywDQNqWTEb1GmHHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506839004364-v2dhnvse9vsmi4pfmnqurfsogpn3lfij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
